@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=FF0000&text=Hey%20Everyone💕&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
-I'm Akash Selvaraj . R
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=99&color=808080&text=Akash%20Selvaraj%20R&fontColor=FFFFFF&section=header&fontSize=49"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Selvaraj-R&show_icons=true&locale=en&layout=compact" alt="Akash-Selvaraj-R" /></p>
 

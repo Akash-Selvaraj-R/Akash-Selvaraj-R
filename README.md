@@ -6,6 +6,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Selvaraj-R&show_icons=true&locale=en&layout=compact" alt="Akash-Selvaraj-R" /></p>
 
+
+
 🔭 I'm currently working on **a MERN stack project for my placements**
 
 🌱 I'm currently learning **Further details and developing my base skills in my domain**

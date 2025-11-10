@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=waving&height=99&color=FF0000&text=Hey%20Everyone💕&animation=fadeIn
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=FF0000&text=Hey%20Everyone💕&animation=fadeIn"/>
+</p>
 
 # Hi 👋, I'm Akash Selvaraj . R
 

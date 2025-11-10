@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=FF0000&text=Hey%20Everyone💕&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=FF0000&text=Hey%20Everyone💕&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
-# Hi 👋, I'm Akash Selvaraj . R
-
-### A passionate developer
+I'm Akash Selvaraj . R
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Selvaraj-R&show_icons=true&locale=en&layout=compact" alt="Akash-Selvaraj-R" /></p>
 

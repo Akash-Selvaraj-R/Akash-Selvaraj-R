@@ -7,7 +7,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-Selvaraj-R&show_icons=true&locale=en" alt="Akash-Selvaraj-R" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-contribution-grid-snake-dark.svg" alt="Snake animation - Dark Mode" />
 </p>
 
 <p align="center">

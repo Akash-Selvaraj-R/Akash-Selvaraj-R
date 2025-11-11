@@ -8,6 +8,10 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" /></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=FF0000&animation=fadeIn&fontColor=FFFFFF&section=footer"/>
+</p>
+
 🔭 I'm currently working on **a MERN stack project for my placements**
 
 🌱 I'm currently learning **Further details and developing my base skills in my domain**

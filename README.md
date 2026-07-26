@@ -205,45 +205,26 @@ width="100%"/>
 
 <br/>
 
-## `>_` Contribution Activity & Highlights
+<br/>
 
-<table width="100%">
-<tr>
+## `>_` Open Source Activity
 
-<td width="55%" valign="top">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Selvaraj-R&theme=github-compact&bg_color=0D1117&color=8B949E&line=E6EDF3&point=8B949E&hide_border=true" width="100%"/>
 
-<br/>
-
-**Snake Eating Contributions**
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg" width="100%">
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg"
+    width="100%"/>
 </picture>
 
-</td>
-
-<td width="45%" valign="top">
-
-**GitHub Achievements**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-Selvaraj-R&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=6" width="100%"/>
-
-<br/><br/>
-
-**Trophy Cabinet**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akash-Selvaraj-R&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+</div>
 
 ## `>_` Let's Connect
 

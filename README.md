@@ -204,6 +204,7 @@ width="100%"/>
 </div>
 
 <br/>
+
 ## `>_` Contribution Activity & Highlights
 
 <table width="100%">

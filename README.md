@@ -123,7 +123,7 @@ Postman · GitHub
 
 <br/>
 
-## `>_` Experience &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `>_` Projects
+## `>_` Experience & Projects
 
 <table width="100%">
 <tr>

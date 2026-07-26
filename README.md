@@ -190,44 +190,55 @@ Symptom-based prediction app with live inference and interactive UI.
 ## `>_` GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Selvaraj-R&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&border_radius=8" height="175em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Selvaraj-R&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8&border_radius=8" height="175em"/>
+<img
+src="https://github-readme-stats-nine-beta-86.vercel.app/api?username=Akash-Selvaraj-R&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=8B949E&text_color=8B949E&border_radius=8"
+height="175em"/>
+<img
+src="https://github-readme-stats-nine-beta-86.vercel.app/api/top-langs/?username=Akash-Selvaraj-R&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&langs_count=8&border_radius=8"
+height="175em"/>
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash-Selvaraj-R&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakLabel=E6EDF3&border_radius=8" width="100%"/>
+<img
+src="https://streak-stats.demolab.com?user=Akash-Selvaraj-R&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakLabel=E6EDF3&border_radius=8"
+width="100%"/>
 </div>
 
 <br/>
-
-## `>_` Contribution Activity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `>_` Highlights
+## `>_` Contribution Activity & Highlights
 
 <table width="100%">
 <tr>
+
 <td width="55%" valign="top">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Selvaraj-R&theme=github-compact&bg_color=0D1117&color=8B949E&line=E6EDF3&point=8B949E&hide_border=true" width="100%"/>
 
-**Activity Timeline**
+<br/>
+
+**Snake Eating Contributions**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake.svg"/>
-  <img alt="contribution activity" src="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Akash-Selvaraj-R/Akash-Selvaraj-R/output/github-snake-dark.svg" width="100%">
 </picture>
 
 </td>
+
 <td width="45%" valign="top">
 
 **GitHub Achievements**
 
 <img src="https://github-profile-trophy.vercel.app/?username=Akash-Selvaraj-R&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=6" width="100%"/>
 
+<br/><br/>
+
 **Trophy Cabinet**
 
 <img src="https://github-profile-trophy.vercel.app/?username=Akash-Selvaraj-R&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" width="100%"/>
 
 </td>
+
 </tr>
 </table>
 
